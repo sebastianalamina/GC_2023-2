@@ -25,7 +25,7 @@ def cadena_complementaria(cadena, ADN):
 
 		# Analizamos cuál será la base que reemplazará a la leída actualmente.
 		# Si se lee otra letra que no corresponda a una base correcta,
-		# no transcribimos dicho letra.
+		# no transcribimos dicha letra.
 		try:
 			base_complementaria = bases_complementarias[base]
 		except KeyError as e:
