@@ -63,3 +63,35 @@ Las respuestas a éstas preguntas deben estar en el archivo `PDF`, recuerda que 
 
   * El plagio será penalizado.
 ```
+
+## Evaluación/Calificación :star:
+
+### Comentarios sobre la entrega
+
+Rúbrica de práctica 1: 
+
+Cuestionario 2.5/3 ptos si:  
+- Referencias apropiadamente citadas. 
+- Usa lenguaje apropiado. 
+- No plagio y está explicada con palabras del propio estudiante.
+
+Programa  4/5 ptos. si: 
+- Es fácil de usar, es intuitivo o contiene instrucciones. 
+- La salida tiene sentido.
+
+Referencias y citas: 1.5/2 ptos.
+- Las referencias no deben venir de páginas de internet tipo blogs o wikis.
+- Obtienen los dos puntos si todas sus fuentes de consulta son apropiadas.
+
+Comentarios: 
+
+Buen trabajo. Sólo tengo un par de comentarios, primero *Felis catus* es un nombre científico, y los nombres científicos se escriben siempre en itálicas. Además en el epíteto específico (el segundo nombre), la primera letra debe ir en minúscula. Bien hecho por las justificaciones y sólo faltó que citaran los sitios donde consultaron la información.
+
+En cuanto a las referencias, me parecen... pasables, estoy segura que hay más sitios que hablen del gato doméstico. La única referencia que sí me pareció inadecuada es la de: https://www.fisioterapia-online.com/glosario/proteina-miosina. 
+
+En cuanto a su programa, genial que da instrucciones. Si se comienzan a dedicar a esta área es muy probable que se encuentren con personas que piensen que FB es tecnología de punta y es buena idea comenzar a ser claros. Por otro lado, me pareció interesante la salida de la cadena de aminoácidos... ¿Por qué me da una cadena diferente en función de la posición? Si uds en la pregunta 3 ya dijeron que es un gen... ¿Qué buscaron? ¿Qué consideraron?
+
+Aunque... sé que uno de uds me escribió con todas las consideraciones biológicas que se le ocurrió.
+
+- **Total**: 2.5 + 4 + 1.5 = 8 + 2 (por preguntón) = 10
+- **Nota**. Si participaron en algún glosario, se considera.
